@@ -1,0 +1,1 @@
+Algoritma Quick Sort adalah salah satu algoritma pengurutan yang efisien dan banyak digunakan dalam pemrograman. Metode ini menggunakan pendekatan "Divide and Conquer” untuk mengurutkan elemen-elemen dalam sebuah daftar atau array.
