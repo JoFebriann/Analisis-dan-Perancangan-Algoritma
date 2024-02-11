@@ -1,0 +1,1 @@
+Algoritma Prim adalah sebuah algoritma dalam teori graf yang bertujuan untuk mencari pohon rentang minimum (minimum spanning tree) pada sebuah graf berbobot yang saling terhubung. Konsep ini mengacu pada himpunan bagian dari tepi (edge) yang membentuk suatu pohon yang mengandung semua simpul (node), di mana total bobot dari semua tepi dalam pohon harus diminimalisasi.
